@@ -1,4 +1,4 @@
-import './index.css'
+import './index.scss'
 
 const Hello = () => <h1 className="some-class">Hello from Julia!!!</h1>;
 
