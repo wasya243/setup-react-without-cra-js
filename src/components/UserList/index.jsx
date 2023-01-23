@@ -1,11 +1,11 @@
 const MOCK_USERS = [
     {
-        id: "some_id_1",
-        name: "some name 1"
+        id: 'some_id_1',
+        name: 'some name 1'
     },
     {
-        id: "some_id_2",
-        name: "some name 2"
+        id: 'some_id_2',
+        name: 'some name 2'
     }
 ]
 
